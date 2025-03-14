@@ -1,0 +1,26 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif;
+}
+
+main {
+  display: grid;
+  justify-content: center;
+  width: 100vw;
+  align-content: center;
+  gap: 1rem;
+}
+
+textarea {
+  height: 200px;
+  width: 300px;
+}
+
+#funcBtns {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+h1 {
+  text-align: center;
+}
